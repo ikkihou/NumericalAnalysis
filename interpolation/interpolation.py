@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2022/09/25 20:40
+# @Author  : Paul_BAo
+# @FileName: interpolation.py
+# @Software: PyCharm
+# @project : NumericalAnalysis
+# @Cnblogs ：oye20000101@gmail.com
+
+
 import numpy as np
 
 
@@ -80,3 +89,11 @@ if __name__ == '__main__':
 
     # Quadratic interpolation
     print("result of quadratic interpolation:", quadraticInter(0.54, x, y))
+
+
+'''
+result of linear interpolation: -0.6038893999999999
+result of newton interpolation: -0.6159840112
+result of lagrange interpolation: -0.6159840112
+result of quadratic interpolation: -0.6153198399999998
+'''
