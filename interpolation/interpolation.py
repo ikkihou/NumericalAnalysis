@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2022/09/25 20:40
-# @Author  : Paul_BAo
+# @Author  : Paul_Bao
 # @FileName: interpolation.py
 # @Software: PyCharm
 # @project : NumericalAnalysis
